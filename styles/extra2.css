@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.headerline{
+
+    height: 150px;
+    width: 100%;
+    background-color: #C4C4C4;
+
+}
+.headerlineNav{
+    margin-left: 51px;
+    padding-top: 65px;
+}
+li{
+    float:left;
+}
+a{
+    text-decoration: none;
+    margin-left: 19px;
+    color: black;
+
+}
+
+.goback{
+    margin-left: 45px;
+    margin-top: 15px;
+
+}
+.maintop{
+    margin-top: 13px ;  
+    margin-right: 35px;
+    margin-left: 35px;
+    background-color: #FFC700;
+    height: 150px ;
+    width: 1,370px;
+}
+.maintopP{
+    padding-top: 59px ;
+    padding-left: 10px;
+    padding-bottom: 72px;
+    font-size: 18px;
+}
+.suratebi{
+    margin-left: 35px;
+    margin-right: 35px;
+    width:1,370px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+
+}
+.surati1{
+    height: 100%;
+    width: 33.33%;
+    background-color: aqua;
+    
+
+}
+.surati2{
+    height: 100%;
+    width: 33.33%;
+    background-color: green;
+}
+.surati3{
+    height: 100%;
+    width: 33.33%;
+    background-color: red;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+.img2{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.mainbottom{
+    height: 391px;
+    width: 1,370px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: #FFC700;
+}
+.mainbottomtext{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 38px;
+    padding-bottom: 51px;
+
+}
+.mainbottomP{
+    font-size: 14px;
+}
+.futer{
+    margin-bottom:30px;
+    margin-left: 37px;
+    margin-top: 47px;
+    font-size: 12px;
+}
